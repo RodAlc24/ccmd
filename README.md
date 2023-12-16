@@ -4,8 +4,8 @@ Creates the `.compile-commands.json` file for `clangd`.
 
 ## Installation
 
-- Clone this repo or download the `ccmd.sh` file. 
-- Make sure that it is executable by doing `chmod +x ccmd.sh`.
+- Clone this repo or download the `ccmd` file. 
+- Make sure that it is executable by doing `chmod +x ccmd`.
 - Make it executable from anywhere by doing one of the options below:
   - Move it to a directory that is in your `PATH`
   - Create a new derectory (e.g. `/home/mybin/`) and add it to your `PATH` by writing this in your `.bashrc` or `.zshrc`: 
