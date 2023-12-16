@@ -1,6 +1,6 @@
-# Create compile-commands (ccmd)
+# Create compile_commands (ccmd)
 
-Creates the `compile-commands.json` file for `clangd`.
+Creates the `compile_commands.json` file for `clangd`.
 
 ## Installation
 
